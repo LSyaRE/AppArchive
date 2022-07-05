@@ -7,7 +7,7 @@ class Main:
     def archivoRandom(self,nombre,numPalabras):
         pass
 
-    def buscarPalabra(palabra)-> int:
+    def buscarPalabra(nombreArchivo,palabra):
         return "aaaaa"
 
    
